@@ -1,2 +1,1 @@
-# Verity.exe
-It is the game, you can start it, but be careful, if you don't know how to open Task Manager
+This is the programm-monster-verity. In the end of the session press ctrl+alt+delete and choose Task Manager. Then, choose Verity.exe and click button "End task" in the low right corner. 
